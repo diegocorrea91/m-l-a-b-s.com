@@ -8,16 +8,19 @@ $title = "mLabs";
 $var = array(
         "1" => array(
                   "titulo" => "mLabs",
-                  "image" => "http://gph.is/2m6xCjt"
+                  "image" => "http://mkt.alugaria.com.br/alugaria/GIF-1/1.png"
                   ),
         "2" => array(
                   "titulo" => "mLabs",
-                  "image" => "http://gph.is/1pptU1s"
+                  "image" => "http://mkt.alugaria.com.br/alugaria/GIF-1/2.png"
                   ),
         "3" => array(
                   "titulo" => "mLabs",
-                  "image" => "http://gph.is/NYwUyC"
+                  "image" => "http://mkt.alugaria.com.br/alugaria/GIF-1/3.png"
                   ),
+        "4" => array(
+                  "titulo" => "mLabs",
+                  "image" => "http://mkt.alugaria.com.br/alugaria/GIF-1/4.png"
         );
 
 $section = array_rand($var);
